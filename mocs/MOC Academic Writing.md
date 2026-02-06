@@ -1,0 +1,1 @@
+Task competition for this subject will be stored and connected to this folder + notes about how to do assignments and deadlines.

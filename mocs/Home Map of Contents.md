@@ -1,0 +1,1 @@
+Hello I am a bit crazy. Crazy? I was crazy once, they locked me in a room. A rubber room. A rubber room full of rats . And the rats make me crazy. Crazy?
