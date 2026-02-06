@@ -31,3 +31,5 @@ Sources for my fricking research:
 		- Hysilens: https://www.prydwen.gg/star-rail/characters/hysilens
 - 
 - Plan on how to use: Get ratings from prydwen, get the enemy lineup from official source, use the team rec as sources for reasoning what is prioritized, analyse character kits to lineup what the character's kit and what the meta needs.
+
+1. This source contains the highest character usage rates for each of the game's endgame gamemode. The characters that are at tier (T0) are prioritized as being the fastest and most optimal to clear a specific type of content. The list is divided into different groups of characters: DPS (Damage Dealers), Debuff, Healers/ Shielders, Support (Damage Amplifiers)
