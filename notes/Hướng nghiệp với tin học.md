@@ -13,6 +13,7 @@ Kiến thức:
 	- Quản lí thời gian
 Need:
 - Assess whether this job is for you
+- Gets higher and higher in need as more people use computers and tech in their life
 Quản trị
 - Bảo mật hệ thống thông tin, đảm bảo hệ thống làm việc hiệu quả và an toàn
 - Jobs:
