@@ -11,6 +11,10 @@
 - [ ] White chocolate
 - [ ] Powered/ Icing sugar
 - [ ] Piping bag
-- [ ] 
+- [ ] Bags for putting cookies in
+- [ ] Ribbons for tying the cookies
 # Tutorial
 Lưỡi mèo: https://www.youtube.com/watch?v=IjFyjJZtAiA
+
+tags:
+- [[MOC Baking]] 
