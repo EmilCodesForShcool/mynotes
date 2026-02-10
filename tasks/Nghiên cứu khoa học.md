@@ -1,4 +1,0 @@
-- [ ] Tìm shop mua van + đặt van
-- [ ] Vẽ nốt cái hộp theo thông số ở trên cái notes
-- [ ] Mang đi in 3D
-- [ ] mang mô hình về nhà để fuck around and find out
