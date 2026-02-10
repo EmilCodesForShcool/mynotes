@@ -16,7 +16,7 @@ How to cheese with ChatGPT (what to have in your prompt):
 
 Make 10 from 10 different sources
 Sources for my fricking research:
-- Prydwen: [https://www.prydwen.gg/star-rail/tier-list/](https://www.prydwen.gg/star-rail/tier-list/): has characters with highest usage rates
+- https://www.prydwen.gg/star-rail/memory-of-chaos: has characters with highest usage rates
 - Line up for MoC, PF, AS (from hoyo offical account): [https://www.hoyolab.com/article/42766421](https://www.hoyolab.com/article/42766421: Official enemy lineup + turbulance
 - Team recommendations for AS + reasoning: https://www.sportskeeda.com/esports/best-teams-honkai-star-rail-hsr-3-8-apocalyptic-shadow-dominance-netherveil
 - Team recs + strat guides for MoC: https://www.ldshop.gg/blog/honkai-star-rail/honkai-star-rail-memory-of-chaos.html
@@ -31,7 +31,7 @@ Sources for my fricking research:
 		- Hysilens: https://www.prydwen.gg/star-rail/characters/hysilens
 - Plan on how to use: Get ratings from prydwen, get the enemy lineup from official source, use the team rec as sources for reasoning what is prioritized, analyse character kits to lineup what the character's kit and what the meta needs.
 
-1. This source contains the highest character usage rates for each of the game's endgame game mode. The characters that are at tier (T0) are prioritized as being the fastest and most optimal to clear a specific type of content. The list is divided into different groups of characters: DPS (Damage Dealers), Debuff, Healers/ Shielders and Support (Damage Amplifiers). This list contains the foundational information on the most optimal characters in different game modes in Honkai Star Rail. This source will have statistics on what characters/ teams are favored by current players.
+1. This source contains statistics about character usage rates in all current
 2. This source contains the description of power-ups and enemy line ups of 3 of the game's different game modes: Memory of Chaos, Pure Fiction and Apocalyptic Shadow. Knowing about power-ups and enemy line ups allows me to understand what mechanics are currently favored by the game. Therefore, this information allows me to know which characters are optimal for the current enemies and power-ups.
 3. This source has team recommendations and recommended strategies for the current Apocalyptic shadow. Knowing about optimal strategies allows me to have better team building for this challenge.
 4. This source has team recommendations and recommended strategies for the current Pure Fiction. Knowing about optimal strategies allows me to have better team building for this challenge.
