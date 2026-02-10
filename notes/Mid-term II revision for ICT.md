@@ -107,5 +107,4 @@
 
 ---
 tags:
-#ICT
 [[MOC ICT]]
