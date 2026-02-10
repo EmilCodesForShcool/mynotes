@@ -13,6 +13,10 @@
 - [ ] Piping bag
 - [ ] Bags for putting cookies in
 - [ ] Ribbons for tying the cookies
+
+# Amount
+- Chocolate chip cookies:
+- Bánh lưỡi mèo
 # Tutorial
 Lưỡi mèo: https://www.youtube.com/watch?v=IjFyjJZtAiA
 
