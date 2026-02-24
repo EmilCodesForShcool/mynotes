@@ -23,3 +23,4 @@ Vật lí:
 - Lớp 12 
 	- Định luật Charles, Boyle (liên quan đến khí lí tưởng)
 	- Lực Lorenz
+	- Mấy cái bài tập nâng cao...
