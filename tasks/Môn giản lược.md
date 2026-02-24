@@ -1,3 +1,3 @@
-Giáo dục địa phương (06/03/2026)
-Hoạt động trải nghiệm (06/03/2026)
-An ninh quốc phòng
+- [ ] Giáo dục địa phương (06/03/2026)
+- [ ] Hoạt động trải nghiệm (06/03/2026)
+- [ ] An ninh quốc phòng
