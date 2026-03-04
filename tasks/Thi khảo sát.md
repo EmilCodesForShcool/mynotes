@@ -11,7 +11,7 @@ Toán:
 	- Đặc điểm các hàm khác nhau
 	- 
 - Kiến thức kì II:
-	- Nguyên hàm
+	- ~~Nguyên hàm~~
 	- Tích phân
 
 Văn

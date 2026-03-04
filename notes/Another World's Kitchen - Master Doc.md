@@ -73,7 +73,7 @@ Kills big beasts and cooks them, good combat abilities, possibly half-wolf (?), 
 
 ## The cooks
 
-Master
+Master (Escoffier)
 
 - Master hunter and chef, founder of The Pavilion, helps people that are in danger due to the area's beasts. Take in chefs to train them and they help him run his restaurant.
 
@@ -143,12 +143,10 @@ The staff
 
 - People that are employed by the three heads, includes:
 - Hector's staff:
-    - A middle-aged man who quit his original job to become a cook
-    - A young female biologist that's working part time as a chef, the cooking and dissecting allows her to understand beasts better
-
+    - A young female biologist of a neighboring community that's working part time as a chef, the cooking and dissecting allows her to understand beasts better
+    - 
 - Molly's:
-    - An experienced fisher woman (20 years her senior)
-    - An innocent teenage boy working to pay of his rent
+    - A teenage boy working to pay of his rent in the town
 
 - Will does not have staff, he has his rats
 
@@ -162,7 +160,7 @@ Flidya
 - Can shape shift into any beasts or animals
 - Has magic powers :D (elemental manipulation, shape shifting, great strength)
 - Uses her powers to punish those that disrupt the harmony of nature for their own gain (deforestation, over hunting, ...) but has a a hard discerning intent. Doesn't but would wound over hunters for life (including the Pavilion's master)
-- Hector found out that she was the one that wounded his Master, Flidya made a deal with Hector so that they would work together to keep the harmony at bay. She would move her beasts away from the humans and Hector will help punish over hunters and maintain habitat harmony.
+- Hector found out that she was the one that wounded his Master, Flidya made a deal with Hector so that they would work together to keep the harmony at bay. She would move her beasts away from the humans and Hector will help punish over hunters and maintain habitat harmony (killer guy :D)
 
 - Personal info:
 
@@ -173,10 +171,8 @@ Flidya
     - Eye color: Green and yellow
 
     - Likes to taste the food of the Pavilion
-
 Ray
-
-- The Forrest's scout, he blends in with other humans to find out 
+- The Forrest's scout, he blends in with other humans to find out about their lives and help defeat beasts
 
 ## The town
 
@@ -194,3 +190,42 @@ Shopkeeper
 ## THE PAVILION
 
 ![Image from Another World's Kitchen](https://app.milanote.com/media/p/images/1VwsQt1TyeXhfp/RJS/image.png?w=800)
+
+
+
+
+
+
+
+
+
+
+Planned game mechanics and things :D
+- Day - based gameplay with tasks and a deadline + a calendar
+- Go through all process of food production:
+	- Farming
+	- Harvesting
+	- Processing
+	- Cooking
+- 3 paths:
+	- Hunting with Hector
+	- Fishing with Molly
+	- Farming with Will
+- The Pavilion will get special orders from customers/ run their restaurant for customers (similar to )
+- The restaurant section will have customers of the town along with monsters disguising as humans. You deduce who is who to exterminate them
+- The special orders section is lore related. You go get special ingredients with a part of restaurant staff and then prepare them for a feast/ order. Special orders could be for events or regular town meet-ups (at the end of a week - inspired by my family's weekly dinning meet ups)
+- Cooking functions will be mini-games and combines team cooking to mimic working in a real kitchen (like overcook but less chaotic)
+- Skill tree for different skills is available and will allow you to process tasks much faster (based on branches of the culinary arts)
+	- Hot food: grilling, cooking, knife skill
+	- Cold food: salads, platters, appetizers
+	- Pastry and Baking: cake/ bread
+	- Butchery and preparation: fishing, hunting, preparing ingredients
+- Restaurant sytem:
+	- Story mode:
+		- You are assigned a role each week as part of your training, you'll slowly climb the hierarchy of the kitchen brigade
+		- NPCs are staff assisting you on different parts of the hierarchy
+		- Completing levels allows you to do tasks faster after you leveled up your skill tree
+		- Star system similar to Overcooked!. If you don't have stars, you fail the service day.
+	- Co - op mode:
+		- Cross platform Co - op like star drew valley, max a lot of players
+		- You all play in the kitchen and are assigned roles randomly or you can pick roles (2 modes)
