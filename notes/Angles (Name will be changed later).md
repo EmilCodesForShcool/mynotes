@@ -28,7 +28,7 @@ Raphael - Healing
 
 ![Image from Angles](https://app.milanote.com/media/p/images/1VwZkx10sK3R8U/PKQ/image.png)
 
-![Image from Angles](https://app.milanote.com/media/p/images/1VwZE510sK3R96/URp/image.png)
+
 
 ## CHARACTERS - THE ARCHANGELS
 
@@ -128,3 +128,6 @@ Bel (Belphagor) - Sloth
 ![Image from Angles](https://app.milanote.com/media/p/images/1VyGlC1UxfJd3G/IQM/image.png)
 
 Stan (Satan) - Wrath
+
+tags:
+- [[MOC creative work]]

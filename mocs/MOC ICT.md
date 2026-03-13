@@ -1,1 +1,4 @@
 This is the rest of my notes of this year of this godforsaken subject that I don't even take to graduate :D
+
+tags:
+- [[Home Map of Contents]]

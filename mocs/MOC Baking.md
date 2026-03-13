@@ -3,3 +3,6 @@ I keep:
 - Recipies
 - Tips for next time baking
 - Dumb ideas related to cake or cake-related gadgets
+
+tags:
+- [[MOC ICT]]

@@ -39,4 +39,7 @@ Chuẩn 802.11ad là có tốc độ nhanh nhất: 4.6 Gb/s
 
 ![[Pasted image 20260303092129.png]]
 
-![[Pasted image 20260303092821.png]]
+![[Pasted image 20260303092821.png|270]]
+
+tags:
+- [[MOC ICT]]
