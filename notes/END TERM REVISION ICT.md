@@ -19,10 +19,14 @@
 - Dùng **font-family** để chọn phông
 	- Phân theo họ: serif (có chân), sans-serif (không có chân), monospace (dàn đều), cursive (viết tay), fantasy(trừu tượng)
 	- Có thể nhận giá trị là một danh sách các tên font, trình duyệt sẽ lựa qua và tìm cái hiển thị văn bản
+	 ![[Pasted image 20260315231304.png]]
 - Dùng **font-style** chọn kiểu chữ
 	- Thiết lập in nghiêng hay in thường: nhận giá trị **normal** hay là **italics** 
 - Dùng **font-size** chọn cỡ, nhận các giá trị:
 	- Chinh xác: cm, mm, inch, px, pt
+		- in (1 inch = 2.54 cm)
+		- px (1 pixel = 1/96 inch)
+		- pt (1 point = 1/72 inch)
 	- Tương đối:
 		- em: so với cỡ chữ hiện thời của trình duyệt - phần tử ở phía trước
 		- ex: so với chiều cao chữ x của cỡ hiện thời - 
@@ -33,8 +37,6 @@
 	- Thiết lập kiểu chữ in đậm
 		- Nhận **bold** hoặc là **normal** 
 		- Đặt giá trị từ 100 - 900, 500 là bắt đầu viết đậm
-### Màu chữ
-- Color: thiết lập mùa chữ
 ### Dòng văn bản
 - Đường cơ sở (baseline): là đường ngang mà các chữ cái đứng thẳng lên trên 
 - Chiều cao dòng (line-height): khoảng cách giữa các đường cơ sở của các dòng trong một đoạn văn bản
@@ -106,5 +108,61 @@
 	- sao = 0
 
 ---
+# Hướng nghiệp với tin học
+## Dịch vụ sửa chữa và bảo trì máy tính
+Những gì mình sẽ làm:
+- Kiểm soát, duy trì hoạt động của máy
+- Xác định, khắc phục lỗi
+- Sửa, lắp, thay thế linh kiện
+- Phát hiện nguyên nhân hỏng thiết bị
+- Nâng cấp hoặc bổ sung thiết bị
+- thay màn hình/ thay bo mạch chủ
+Làm 2:
+- Phần mềm driver
+- Cài thông dụng: OS, cấu hình mạng
+- Đảm bảo kết nối mạng
+- Update phần mềm
+- No virus
+Làm 3:
+- Tech support
+Cần biết gì:
+- Phần cứng: hiểu cơ bản, biết lắp và sửa
+- Phần mềm: Biết sửa, cài phần mềm(hệ điều hành, văn phòng, trình duyệt, ...), virus killer
+- Skill
+	- Học hỏi
+	- Cập nhật kiến thức
+	- Giao tiếp
+	- Quản lí thời gian
+Nhu cầu:
+- ngày càng tăng cao
+- ngành: kĩ thuật sửa, lắp ráp máy, công nghệ kĩ thuật phần cứng, công nghệ kĩ thuật phần mềm, công nghệ thông tin
+## Quản trị trong ngành công nghệ thông tin
+Công việc gì:
+- Quản trị mạng
+- Bảo mật hệ thống thông tin
+- Quản trị và bảo trì hệ thống
+Kiến thức:
+- Mạng máy tính
+- Bảo mật máy tính
+- Quản lí hệ thống
+- Luật pháp và tuân thủ quy định
+Skill:
+- Giao tiếp
+- Quản lí thời gian
+- Cập nhật kiến thức mới
+Các việc liên quan đang có nhu cầu:
+- Quản trị mạng
+- Bảo mật hệ thống thông tin
+- Quản trị và bảo trì hệ thống
+Những ngành có thể học:
+- Quản trị mạng máy
+- Quản trị hệ thống
+- An ninh mạng
+- Hệ thống thông tin
+- Mạng máy tính và truyền thông dữ liệu
+# Thiết bị mạng
+
+# Đường truyền mạng và ứng dụng
+# Làm quen với học máy
 tags:
 [[MOC ICT]]
