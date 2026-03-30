@@ -1,1 +1,0 @@
-**Có bụi:** Gia đình năm trước có tang liên quan đến cha mẹ hoặc cha mẹ của vợ/ chồng. Gia đình có bụi không nên đi chơi nhiều và ăn tết đơn giản vì đang trong giai đoạn tang
