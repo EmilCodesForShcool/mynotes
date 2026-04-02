@@ -1,7 +1,5 @@
-## LORE - CHARACTERS
-
+# LORE - CHARACTERS
 ## The cooks
-
 Escoffier (a.k.a Master)
 - Executive chef of the Pavilion
 - Master hunter and chef, founder of The Pavilion, helps people that are in danger due to the area's beasts. Take in chefs to train them and they help him run his restaurant.
@@ -9,13 +7,11 @@ Escoffier (a.k.a Master)
 - The Master has had more students before but they all died trying to surpass him, he currently has 3 students left: Hector, Molly and William. They both study his craft and skills along with help him run his restaurant - The Pavilion.
 - He currently resides in the upper floors of The Pavilion, leaving the restaurant to his students.
 - Old man, face mostly covered in bandages, one eye present, lots of scars from hunting trips. He rests most of the time but does come out to test dish quality and provide feedback for his students
-
 **The first lady**
 - The master's wife, responsible for both caring for the master along with his students at the end of the day.
 - Old cozy lady, makes the best food (according to the students)
 - The Master teaches while the First lady cares for his students
 - Resides in the upper floors of the Pavilion along with the Master.
-
 **Hector - The Butcher**
 - Head chef of the Pavilion
 - Mostly stoic, calm and collected, charismatic. Super angry if he loses his shit. High-key perfectionists and a bit overbearing + likes being passive aggressive to mask his anger.
@@ -26,6 +22,7 @@ Escoffier (a.k.a Master)
     - Age: 26
     - Eye color: Who knows? this guy never open his eyes
     - Preferred weapons: bladed weapons (swords, daggers, knives and axes)
+    - Hobby: Fashion, fitness
 
 **Molly - The Angler**
 - Sous chef of the Pavilion
@@ -37,6 +34,7 @@ Escoffier (a.k.a Master)
     - Age: 25
     - Eye color: Green and hazel
     - Preferred weapons: Pole arms and crossbows
+    - Hobby: Cartography, wildlife watching
 
 **William - The Baker**
 - Pastry chef, line cook 
@@ -49,6 +47,7 @@ Escoffier (a.k.a Master)
     - Age: 25
     - Eye color: Sapphire
     - Preferred weapon: Doesn't like to fight, but if he has to, he'll use his legs since his hands are only for baking.
+    - Hobby: Reading, writing
 
 **staff** **(back of house)**
 *Jamie*
@@ -62,17 +61,21 @@ Escoffier (a.k.a Master)
 - garde manager
 - Previously a salary man, but quit his job to go to culinary school, now works here
 - Employer: Escoffier
+- Hobby: Music, plays at the local live house
 *Gordon*
 - prep cook, roundabout chef, junior chef
-- Young chef interning from culinary school 
+- Young chef interning from culinary school, his parents are no where to be found. Works at The Pavilion full time while going to culinary school.
 - Employer: Molly
+- Hobby: Wild life watching, video games
 
 **staff (front of house)**
-
+tan guy
+- Head of the front of house
+blonde girl
+long hair guy
+short girl
 ## The nature
-
-Flidya
-
+**Flidya**
 - The Forrest's guardian, responsible for guarding the beasts and maintaining balance. Would disguise herself most of the time as other animals to watch over the forest, turns into human from when needed. Tries her best to stay hidden
 - Is considered the topic of horror stories in the town
 - Has high intelligence, can read, write and communicate with people
@@ -82,13 +85,9 @@ Flidya
 - Hector found out that she was the one that wounded his Master, Flidya made a deal with Hector so that they would work together to keep the harmony at bay. She would move her beasts away from the humans and Hector will help punish over hunters and maintain habitat harmony (killer guy :D)
 
 - Personal info:
-
     - Height: 170 cm
-
     - Age: ???
-
     - Eye color: Green and yellow
-
     - Likes to taste the food of the Pavilion
 Ray
 - The Forrest's scout, he blends in with other humans to find out about their lives and help defeat beasts
@@ -96,7 +95,7 @@ Ray
 *Retired adventurer*
 
 *Librarian*
-
+- A short-tempered librarian in charge of the local 
 *Shopkeeper*
 
 ## THE PAVILION
@@ -106,8 +105,11 @@ Ray
 - The restaurant opens for business at late morning (10 AM)
 - Will's bakery (under the pavilion name) serves breakfast items and coffee, bakery closes at 6 PM for dinner service
 
-Planned game mechanics and things :D
-- Day - based gameplay with tasks and a deadline + a calendar
+# Planning stuff that's related to the actual product
+
+> [!Game description]
+> You are a new chef that recently moved to (town name) and you are looking for a job! You found a Help wanted poster for the once famous "Pavilion". Develop your skills and help restore the restaurant to its former glory! But why did this prestigious restaurant fell from grace in the first place?
+-  Day - based game play with tasks and a deadline + a calendar
 - Go through all process of food production:
 	- Farming
 	- Harvesting
@@ -136,6 +138,21 @@ Planned game mechanics and things :D
 	- Co - op mode:
 		- Cross platform Co - op like star drew valley, max a lot of players
 		- You all play in the kitchen and are assigned roles randomly or you can pick roles (2 modes)
+- Time-based RPG:
+	- You work in the night shift, so you can spend your day doing your activity of choice:
+		- Explore the area
+		- Build trust with co-workers through activities. Knowing them more allows you to get more information about the town and level up your skills
+		- Practice your skills
+		- Make and try new recipes in your home
+		- Hang out with people
+	- Each activity takes a certain amount of time (in time units)
+- Trust building
+	- You can message NPCs to schedule hangouts, learn information and build trust
+	- Activities and dialogue options will bring your trust up or down
+	- Getting to a certain level allows you to get bonuses, practice chef skills faster or unlock activities that allow you to train better
+
+# Story planning! (oh my god help me)
+
 
 tags:
 - [[MOC creative work]]
