@@ -1,0 +1,100 @@
+# Đối ngoại 
+Bối cảnh:
+- VN thành thuộc địa, Pháp khai thác mạnh. Phong trào yêu nước cũ thất bại
+- Phan Bội Châu:
+	- 1905: Sang Nhật, tổ chức phong trào Đông du, kêu gọi hỗ trợ bên ngoài
+	- 1908: thành lập tổ chức: điền-quế-việt liên minh, đông á đồng minh
+	- 1911: Trung quốc
+	- 1912: Việt nam quang phục hội, chấn hoa hưng á
+- Phân Châu Trinh:
+	- 1911: Vận động cải cách cho việt nam tại pháp, tranh thủ giúp đỡ thế giới
+- Nguyễn Ái Quốc:
+	- 1911-1922: Đi nhiều nước, tìm kiếm ủng hộ với CM ở Pháp. tham gia sáng lập ĐCS pháp và hội liên hiệp quốc gia thuộc địa
+	- 23: Tham gia đại hội quốc tế cộng sản tại liên xô => xác lập quan hệ giữa CM việt nam với quốc tế cộng sản
+	- 24: sang TQ mở lớp huấn luyện chính trị
+- Ý nghĩa: thể hiện tinh thần yêu nước, ý thức đấu tranh, kết nối CM VN với thế giới; đặt nền móng cho hoạt động đối ngoại VN
+Đảng CS Đông Dương:
+## Trước CMT8
+- 30-45: 
+	- WW2, chống phát xít phát triển mạnh
+	- 40: phát xít nhật tấn công VN, Nhật - Pháp câu kết đàn áp
+	- ĐCS VN ra đời năm 1930, lãnh đạo CM
+	- Mục đích: đấu tranh chống thực dân và phát-xít, bảo vệ hòa bình, tiến tới độc lập dân tộc
+- 30 - 40: duy trình liên lạc quốc tế cộng sản, ủng hộ Liên Xô, củng cố quan hệ TQ, giúp đỡ nạn nhân chiến tranh
+- 41-45: liên lạc chống quân phiệt nhật ở ĐNA, tạo ra mặt trận Việt Minh, đứng về phía đồng minh, phối hợp với Trung quốc chống nhật và OSS (mỹ)
+- Ý nghĩa: góp phần gắn CM việt nam và thế giới, tranh thủ ủng hộ quốc tế
+## Sau CMT8
+- 45-46: 
+	- Hoàn cảnh: Ianta, nhiều khó khăn cho VNDCCH (đói, dốt, ngoại xâm), quân đồng minh vào VN, pháp quay lại
+	- Mục đích: bảo vệ chủ quyền, tranh thủ ủng hộ quốc tế, tránh 1 lúc nhiều kẻ thủ
+	- Hoạt động: 
+		- Công hàm liên hợp quốc, nước lớn công nhận VNDCCH
+		- Trước 6/3/1946: thân TQ, chống pháp ở miền nam
+		- sau 6/3 - 19/12: thân pháp đuổi tưởng. Kí hiệp định sơ bộ => Pháp công nhận VN là một nước tự do trong liên hiệp Pháp => hiệp định song phương đầu tiên kí
+		- Kí tạm ước (14/9/1946)
+	- Ý nghĩa: tránh 1 lúc nhiều kẻ thủ, hòa hoãn thêm để củng cố kháng chiến lâu dài
+- 46 - 54:
+	- Hoàn cảnh: chiến tranh mạnh gay gắt, nhân nhượng nhưng tiếp tục => kháng chiến toàn quốc bùng nổ 19/12/1946, 1950 mĩ can thiệp ở đông dương
+	- Mục đích: tranh thủ ủng hộ quốc tế, kết thúc chiến tranh bằng ngoại giao
+	- Hoạt động:
+		- Mở cơ quan ngoại giao
+		- 1950: thiết lập quan hệ ngoại giao Cộng hòa nhân dân trung hoa, XHCN => thắng lợi lớn cho sau này\
+		- 51: Liên minh việt - miên - lào
+		- hội hữu nghị và ủy bản bảo vệ hòa bình thế giới
+		- 54: hiệp định giownevo, lập lại hòa bình ở đông dương, ghi nhận các quyền dân tộc cơ bản của nhân dân 3 nước đông dương
+	- Ý nghĩa: tranh thủ ủng hộ quốc tế, cùng chính trị, quân sự kết thúc kháng chiến
+- 45 - 75
+	- Hoàn cảnh: VN chia 2 miền nam bắc với 2 chế độ. Mỹ biến miền Nam thành thuộc địa kiểu mới 
+	- Mục đích: thi hành giownevo, củng cố quan hệ với XHCN, mở rộng quan hệ, tranh thủ ủng hộ, đánh bại chiến lược chiến tranh
+	- Họat động:
+		- Yêu cầu thực hiện giownevo: 1954 - 58: gửi công hàm chính quyền sài gòn, yêu cầu tổng tuyển cử và hiệp thương
+		- củng cố phát triển với XHCN: tiếp xúc các lãnh đạo TQ, LX
+		- Tăng cường đông dương: 65 - hội nghị nhân dân 3 nước đông dương, 70-hội nghị cấp cao 3 nước đông dương
+		- quan hệ nhiều nước
+		- Pari: 67 - khóa III lần 13 nâng ngoại giao thành 1 mặt trận, vừa đánh vừa đàm, 68- thắng lợi của tổng tiến công và nổi dậy xuân mậu thân, đàm phán 4 bên, 73 - kí hiệp định paris => ghi nhận quyền dân tộc cơ bản, rút quân => hoàn thành đánh cho mỹ cút
+	- Ý nghĩa: mở rộng quan hệ, tranh thủ ủng hộ, đóng góp quan trọng đến thắng lợi của kháng chiến chống mỹ
+- 75 - 85:
+	- Hoàn cảnh: hậu quả chiến tranh, bị bao vây, cấm vận, phức tạp tq, cam => mở rộng
+	- Hợp tác toàn diện LX: 78 - SEV (hội đồng tương trợ kinh tế), đàm phán biên giới
+	- đna: phát triển hữu nghị lào, cam, 79 - giúp cam lật đổ khme đỏ, 80- quan hệ ngoại giao ASEAN
+	- tổ chức quốc tế: 76: không liên kết, chống cấm vận, bình thường hóa quan hệ, 77: thành viên LHQ => sự kiện quan trọng trong giai đoạn mới
+	- Cải thiện quan hệ mới, đàn phám bình thường hóa
+- 86 - nay:
+	- LX sụp đổ, chiến tranh lạnh kết thúc, đa cự và toàn cầu hóa phát triển, đổi mới, mở cửa kinh tế => làm bạn tất cả các nước => yêu cầu: nâng cao vị thế, phát triển kinh tế
+	- Phá bao vây, cô lập: giải quyết vấn đề campuchia (1991 - hiệp định hòa bình pari về campuchia), bình thường hóa quan hệ tq(1991), mỹ (1995)
+	- Củng cố, mở rộng quan hệ
+	- hội nhập khu vực, thế giới: 1995-tham gia asean, 2007- tổ chức thương mại thế giới WTO
+	- bảo vệ chủ quyền lãnh thổ, biển đảo: đàm phán, hiệp định phân định biên giới
+	- hợp tác bảo vệ môi trường: nghị định thư kyoto, hỗ trợ nhân đạo, ...
+- tóm tắt: 
+	- 45 - 75: đấu tranh ngoại giao có liên hệ chặt chẽ với đấu tranh chính trị, quân sự, góp phần đưa đến thắng lợi
+	- "dĩ bất biến, ứng vạn biến"
+# Hồ Chí Minh 
+## Cuộc đời sự nghiệp
+- Hoàn cảnh
+	- đất nước: yêu nước, thực dân pháp đô hộ và đàn áp, phong trào chống pháp thất bại => dành độc lập dân tộc là nhiệm vụ cấp bách của dân tộc và khát vọng cuộc đời
+	- quê hương: khu công nghiệp vĩnh-bến thủy cho tiếp thu nhiều tư tưởng mới, đấu tranh kiên cường, truyền thống
+	- gia đình: nhà nho yêu nước, Nguyễn sinh sắc, hoàng thị loan, nhân cách tốt đẹp với sự đồng cảm với nhân dân lao động
+- cách mạng:
+	- học tiểu học pháp việt đông ba, quốc học huế
+	- 1909: dạy học ở dục thanh
+	- 5/6/1911: ra đi tìm đường cứu nước, văn ba, rời bến nhà rồng
+	- 11-17: đi qua nhiều nước, tìm hiểu về lao động => hiểu bản chất bóc lột của đế quốc
+	- 19: gửi yêu sách nhân dân an nam ở hội nghị véc-xai => cần giải phóng theo sức mình
+	- 20: sơ thảo luận cương vấn đề thuộc địa của lê nin => tìm con đường cứu nước
+	- 12/20: tham gia quốc tế cộng sản => người cộng sản đầu tiên của vn
+	- 21: liên hiệp các quốc gia thuộc địa, người cùng khổ
+	- 25: hội vn cách mạng thanh niên => báo thanh niên
+	- 30: hợp nhất đảng cộng sản tại hương cảng => đảng cộng sản vn, soạn cương lĩnh chính trị đầu tiên của đảng
+	- 33: lx
+	- 38: tq
+	- 28/1/1941: về nước
+	- 41: thành lập việt minh
+	- 42: sang tq tìm hỗ trợ
+	- 9/44: về việt nam lãnh đạo
+	- 45: tổng khởi nghĩa, chủ tịch chính phủ lâm thời, tuyên ngôn độc lập
+	- 45 - 69:
+		- lãnh đạo kháng chiến chống pháp
+## Giải phóng dân tộc
+- 5/6
+## Dấu ấn
