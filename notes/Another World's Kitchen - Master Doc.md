@@ -104,6 +104,8 @@ Ray
 - It's regular menu has a dish rotation system, each day will have a specific meal but do take special orders for specific food or specific kinds of dishes
 - The restaurant opens for business at late morning (10 AM)
 - Will's bakery (under the pavilion name) serves breakfast items and coffee, bakery closes at 6 PM for dinner service
+- mainly takes reservations but still take separate customers
+- It's closed on Mondays to prevent staff strain (cuz little staff)
 
 # Planning stuff that's related to the actual product
 
@@ -152,6 +154,16 @@ Ray
 	- Getting to a certain level allows you to get bonuses, practice chef skills faster or unlock activities that allow you to train better
 
 # Story planning! (oh my god help me)
+## Pre-canon
+
+## Canon
+#### Tutorial - Prelude
+- Player just moved to (town name) and is looking for a job, you are a culinary school student
+- You found a poster by the pavilion - a once famous fine dinning restaurant with many awards. they are looking for cooks - entry level and a food safety certification. Perfect for you! You call the number on the flyer and Hector responds. He calls you for an interview at the restaurant.
+- You are offered a stage - trial run in the kitchen after the interview. This is the start of the games cooking tutorial on controls and visual indicators of food.
+- Player is accepted!
+- You spend the monday free to take a break and explore (tutorial for character interactions and exploration)
+
 
 
 tags:
