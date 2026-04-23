@@ -25,10 +25,10 @@ Vật lí:
 	- Mấy cái bài tập nâng cao...
 # Thi khảo sát lần 1 kết thúc results and notes
 ## Result:
-- Toán: 7
-- Anh: 9.8
-- Văn:
-- Vật lí: 6.5
+- Toán: 7.25
+- Anh: 9
+- Văn: 7
+- Vật lí: 6.75
 ## Things to do better next time:
 - Toán:
 	- Ôn kĩ các kiến thức lớp 11 và lớp 10 (của tất cả các môn)
@@ -54,3 +54,14 @@ Vật lí:
 - Review more clearly in the process, since you didn't have enough time to go through all things necessary in such as short time.
 - Plan studying more thoroughly overall, you will be VERY busy in the upcoming days
 - Tập nhiều bài khó, thực tế do mình toàn mất điểm vì cái đó thôi
+
+# Thi khảo sát lần 2 kết thúc results and notes
+Điểm: Nát vcl :(
+- Toán:
+- Văn:
+- Vật lí:
+- Skip anh rồi
+Đề khó vl wtf????
+- Tập dạng thực tế nhiều và luyện thêm về đạo hàm (hàm log, mũ, cthu)
+- Học lại mấy công thực lặt vặt (diện tích hình đa giác đều, ...)
+- nói chung là học kĩ lý thuyết và luyện vì thầy đã cover hết mọi thứ rồi
