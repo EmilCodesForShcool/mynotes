@@ -7,16 +7,20 @@ Escoffier (a.k.a Master)
 - The Master has had more students before but they all died trying to surpass him, he currently has 3 students left: Hector, Molly and William. They both study his craft and skills along with help him run his restaurant - The Pavilion.
 - He currently resides in the upper floors of The Pavilion, leaving the restaurant to his students.
 - Old man, face mostly covered in bandages, one eye present, lots of scars from hunting trips. He rests most of the time but does come out to test dish quality and provide feedback for his students
+
 **The first lady**
 - The master's wife, responsible for both caring for the master along with his students at the end of the day.
 - Old cozy lady, makes the best food (according to the students)
 - The Master teaches while the First lady cares for his students
 - Resides in the upper floors of the Pavilion along with the Master.
+
 **Hector - The Butcher**
 - Head chef of the Pavilion
 - Mostly stoic, calm and collected, charismatic. Super angry if he loses his shit. High-key perfectionists and a bit overbearing + likes being passive aggressive to mask his anger.
 - Most well rounded cook and skilled in combat - the Master sees him as his own son + his pride
-- His parents died from a monster attack, he was rescued by the Master and put under his care when he was very young.
+- His mother was a Hunter - a group that focused on exterminating beasts that fell in love with an intelligent beast and made him.
+- Hector is basically a half-beast who was taught to kill his own kind (like rumi from k-pop demon hunters)
+- Hector is simliar to Akechi - they're both characters that are crucial for the story and their trust mechanic works differently that other characters
 - Personal info:
     - Height: 169 cm
     - Age: 26
@@ -49,6 +53,12 @@ Escoffier (a.k.a Master)
     - Preferred weapon: Doesn't like to fight, but if he has to, he'll use his legs since his hands are only for baking.
     - Hobby: Reading, writing
 
+**Player**
+- Takes the name of what you put in but TECHNICALLY has a canon name
+- Can choose between being a guy or a girl
+- Has the ability to communicate to beasts regardless of intellectual level
+- 
+
 **staff** **(back of house)**
 *Jamie*
 - butcher
@@ -69,12 +79,12 @@ Escoffier (a.k.a Master)
 - Hobby: Wild life watching, video games
 
 **staff (front of house)**
-tan guy
+*Alfred*
 - Head of the front of house
-blonde girl
-long hair guy
+*Penny*
+*Sebastian*
 short girl
-## The nature
+## The nature  (beasts)
 **Flidya**
 - The Forrest's guardian, responsible for guarding the beasts and maintaining balance. Would disguise herself most of the time as other animals to watch over the forest, turns into human from when needed. Tries her best to stay hidden
 - Is considered the topic of horror stories in the town
@@ -82,8 +92,8 @@ short girl
 - Can shape shift into any beasts or animals
 - Has magic powers :D (elemental manipulation, shape shifting, great strength)
 - Uses her powers to punish those that disrupt the harmony of nature for their own gain (deforestation, over hunting, ...) but has a a hard discerning intent. Doesn't but would wound over hunters for life (including the Pavilion's master)
+- Hector first came to Flidya when his beast genes started acting out of control. Flidya comforted him.
 - Hector found out that she was the one that wounded his Master, Flidya made a deal with Hector so that they would work together to keep the harmony at bay. She would move her beasts away from the humans and Hector will help punish over hunters and maintain habitat harmony (killer guy :D)
-
 - Personal info:
     - Height: 170 cm
     - Age: ???
@@ -91,11 +101,22 @@ short girl
     - Likes to taste the food of the Pavilion
 Ray
 - The Forrest's scout, he blends in with other humans to find out about their lives and help defeat beasts
+- True form is a common black bird/ crow
+- Disguises as a musician at the local bar to scout
+
+Beasts (the species)
+- Has varying levels of intelligence
+- No one knows where they come from
+- They coexist with animals and humans
+- Beasts by nature are predators, looking for prey to eat and survive
+- They share genes with other animals, leading to them having signs similar to other animals
+- Guardians are beasts with high intelligence close to humans and are  shepherds to them
 ## The town
 *Retired adventurer*
 
 *Librarian*
-- A short-tempered librarian in charge of the local 
+- A short-tempered librarian in charge of the local library
+- He enjoy 
 *Shopkeeper*
 
 ## THE PAVILION
@@ -105,7 +126,7 @@ Ray
 - The restaurant opens for business at late morning (10 AM)
 - Will's bakery (under the pavilion name) serves breakfast items and coffee, bakery closes at 6 PM for dinner service
 - mainly takes reservations but still take separate customers
-- It's closed on Mondays to prevent staff strain (cuz little staff)
+- It's closed on Mondays and Tuesdays to prevent staff strain (cuz little staff)
 
 # Planning stuff that's related to the actual product
 
@@ -159,11 +180,18 @@ Ray
 ## Canon
 #### Tutorial - Prelude
 - Player just moved to (town name) and is looking for a job, you are a culinary school student
-- You found a poster by the pavilion - a once famous fine dinning restaurant with many awards. they are looking for cooks - entry level and a food safety certification. Perfect for you! You call the number on the flyer and Hector responds. He calls you for an interview at the restaurant.
-- You are offered a stage - trial run in the kitchen after the interview. This is the start of the games cooking tutorial on controls and visual indicators of food.
-- Player is accepted!
-- You spend the monday free to take a break and explore (tutorial for character interactions and exploration)
-
+- You found a poster by the pavilion - a once famous fine dinning restaurant with many awards. They are looking for entry level cooks. Perfect for you! You call the number on the flyer and Hector responds. He calls you for an interview at the restaurant.
+- You are offered a stage - a trial run in the kitchen after the interview. This is the start of the games cooking tutorial on controls and visual indicators of food. The stage introduces you to the restaurants regular and their food preferences - retired adventurer, librarian, Ray, shopkeeper and his wife. in the stage, you are also introduced to customers that look a bit... off
+- Player is accepted! You get introduced to the restaurant's front house and back house staff.
+- You spend the Monday free to take a break and explore (tutorial for character interactions and exploration)
+	- While exploring, you bump into Will's bakery that is open all week. Penny - a server at the Pavilion made you a drink since she works as a barista there.
+	- Another guest comes in while the gang was chatting for his morning coffee - the librarian of the local library. Librarian guy tells you about the history of town.
+	- Hector also comes in for his breakfast and coffee
+	- The gang exchanges your number, intro for character interaction
+- Messaging: gang decides to visit a local music bar that night.
+- You meet Arthur - the head of the front house working there, he pours some drinks while you listen to Ray - a local singer performing with a band playing. 
+- It's late out, gang goes home, on your way home, your ambushed by a beast but Hector goes out to protect you. The beast was big so he used more power in his fighting. Ray witnesses everything
+- Prelude ends with Ray talking to a deer-like figure called Flidya as he reports her that Hector exposed himself, potentially ruining the secret. Flidya replies that she thinks the player is not normal and has something as well.
 
 
 tags:
